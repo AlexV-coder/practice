@@ -5,8 +5,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>hibernate-tutorial</artifactId>
+    <artifactId>hb-01-one-to-one-bi</artifactId>
     <version>1.0-SNAPSHOT</version>
+
+    <parent>
+        <artifactId>practice</artifactId>
+        <groupId>org.example</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>

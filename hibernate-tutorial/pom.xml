@@ -8,6 +8,12 @@
     <artifactId>hibernate-tutorial</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <parent>
+        <artifactId>practice</artifactId>
+        <groupId>org.example</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
