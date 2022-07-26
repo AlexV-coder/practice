@@ -15,6 +15,7 @@
         <module>designpatterns</module>
         <module>hb-01-one-to-one-bi</module>
         <module>hb-01-one-to-one-uni</module>
+        <module>hb-03-one-to-many</module>
         <module>hibernate-tutorial</module>
         <module>hibernatedemo</module>
         <module>javafunctional</module>
