@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>practice</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>collections</module>
+        <module>concurrency</module>
+        <module>designpatterns</module>
+        <module>hb-01-one-to-one-bi</module>
+        <module>hb-02-one-to-one-uni</module>
+        <module>hb-03-one-to-many</module>
+        <module>hb-04-one-to-many-uni</module>
+        <module>hb-05-many-to-many</module>
+        <module>hb-eager-vs-lazy-demo</module>
+        <module>hibernate-tutorial</module>
+        <module>hibernatedemo</module>
+        <module>javafunctional</module>
+        <module>mockitopractice</module>
+        <module>spring-demo-annotations</module>
+        <module>spring-demo-one</module>
+        <module>testing</module>
+    </modules>
+
+    <properties>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
+    </properties>
+
+</project>
