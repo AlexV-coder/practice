@@ -25,6 +25,7 @@
         <module>mockitopractice</module>
         <module>spring-demo-annotations</module>
         <module>spring-demo-one</module>
+        <module>spring-demo-aop</module>
         <module>testing</module>
     </modules>
 
