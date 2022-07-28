@@ -20,13 +20,13 @@
         <module>hb-05-many-to-many</module>
         <module>hb-eager-vs-lazy-demo</module>
         <module>hibernate-tutorial</module>
-        <module>hibernatedemo</module>
         <module>javafunctional</module>
         <module>mockitopractice</module>
         <module>spring-demo-annotations</module>
         <module>spring-demo-one</module>
         <module>spring-demo-aop</module>
         <module>testing</module>
+        <module>hibernatedemo</module>
     </modules>
 
     <properties>

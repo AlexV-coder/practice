@@ -14,7 +14,7 @@ public class AppFetch {
         Session session = sf.openSession();
 
         Transaction transaction = session.beginTransaction();
-        alien = session.get(Alien.class, 103);
+        alien = session.get(Alien.class, 101);
         transaction.commit();
 
         System.out.println(alien);
