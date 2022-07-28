@@ -25,6 +25,10 @@
         <module>spring-demo-annotations</module>
         <module>spring-demo-one</module>
         <module>spring-demo-aop</module>
+        <module>spring-demo-aop-pointcut-declarations</module>
+        <module>spring-demo-aop-pointcut-declarations-combo</module>
+        <module>spring-demo-aop-pointcut-order-aspects</module>
+        <module>spring-demo-aop-read-joinpoint</module>
         <module>testing</module>
         <module>hibernatedemo</module>
     </modules>
