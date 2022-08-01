@@ -29,6 +29,11 @@
         <module>spring-demo-aop-pointcut-declarations-combo</module>
         <module>spring-demo-aop-pointcut-order-aspects</module>
         <module>spring-demo-aop-read-joinpoint</module>
+        <module>spring-demo-aop-after-returning</module>
+        <module>spring-demo-aop-after-throwing</module>
+        <module>spring-demo-aop-after-finally</module>
+        <module>spring-demo-aop-around</module>
+        <module>spring-demo-aop-around-handle-exception</module>
         <module>testing</module>
         <module>hibernatedemo</module>
     </modules>
