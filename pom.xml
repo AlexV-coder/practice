@@ -13,13 +13,6 @@
         <module>collections</module>
         <module>concurrency</module>
         <module>designpatterns</module>
-        <module>hb-01-one-to-one-bi</module>
-        <module>hb-02-one-to-one-uni</module>
-        <module>hb-03-one-to-many</module>
-        <module>hb-04-one-to-many-uni</module>
-        <module>hb-05-many-to-many</module>
-        <module>hb-eager-vs-lazy-demo</module>
-        <module>hibernate-tutorial</module>
         <module>javafunctional</module>
         <module>mockitopractice</module>
         <module>spring-demo-annotations</module>
@@ -35,7 +28,7 @@
         <module>spring-demo-aop-around</module>
         <module>spring-demo-aop-around-handle-exception</module>
         <module>testing</module>
-        <module>hibernatedemo</module>
+        <module>hibernate</module>
     </modules>
 
     <properties>
