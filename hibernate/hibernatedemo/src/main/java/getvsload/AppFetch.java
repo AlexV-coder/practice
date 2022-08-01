@@ -18,7 +18,7 @@ public class AppFetch {
         // Retrieves object when it is used for the first time
         // Executes query when the object is needed
         // For the moment it only returns a proxy object
-        Laptop laptop = session.load(Laptop.class, 101);
+        Laptop laptop = session.load(Laptop.class, 70);
 
         System.out.println(laptop.getBrand());
 
