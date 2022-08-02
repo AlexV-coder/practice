@@ -5,22 +5,21 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>practice</artifactId>
+    <artifactId>security</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
+    <parent>
+        <artifactId>practice</artifactId>
+        <groupId>org.example</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+
     <modules>
-        <module>collections</module>
-        <module>concurrency</module>
-        <module>designpatterns</module>
-        <module>javafunctional</module>
-        <module>mockitopractice</module>
-        <module>spring-demo-annotations</module>
-        <module>spring-demo-one</module>
-        <module>testing</module>
-        <module>hibernate</module>
-        <module>aop</module>
-        <module>security</module>
+        <module>spring-security-demo-01-base-app</module>
+        <module>spring-security-demo-02-basic-security</module>
+        <module>spring-security-demo-03-custom-login-form</module>
+        <module>spring-security-demo-04-csrf</module>
     </modules>
 
     <properties>
