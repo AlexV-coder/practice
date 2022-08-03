@@ -20,6 +20,9 @@
         <module>spring-security-demo-02-basic-security</module>
         <module>spring-security-demo-03-custom-login-form</module>
         <module>spring-security-demo-04-csrf</module>
+        <module>spring-security-demo-05-user-roles</module>
+        <module>spring-security-demo-06-jdbc-plaintext</module>
+        <module>spring-security-demo-07-jdbc-bcrypt</module>
     </modules>
 
     <properties>
