@@ -21,6 +21,8 @@
         <module>hibernate</module>
         <module>aop</module>
         <module>security</module>
+        <module>jackson-databinding-json-demo</module>
+        <module>spring-rest-demo</module>
     </modules>
 
     <properties>
