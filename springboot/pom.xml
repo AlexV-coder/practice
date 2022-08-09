@@ -20,6 +20,10 @@
         <module>02-dev-tools-demo</module>
         <module>03-actuator-demo</module>
         <module>04-properties-demo</module>
+        <module>21-hibernate-with-service-demo</module>
+        <module>22-jpa-cruddemo</module>
+        <module>23-spring-data-jpa-cruddemo</module>
+        <module>24-spring-data-rest-cruddemo</module>
     </modules>
 
     <properties>
