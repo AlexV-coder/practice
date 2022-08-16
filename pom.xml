@@ -25,6 +25,8 @@
         <module>spring-rest-demo</module>
         <module>spring-crm-rest-demo</module>
         <module>springboot</module>
+        <module>openfeignexample</module>
+        <module>springcloudfunctions</module>
     </modules>
 
     <properties>
