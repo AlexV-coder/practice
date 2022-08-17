@@ -27,6 +27,7 @@
         <module>springboot</module>
         <module>openfeignexample</module>
         <module>springcloudfunctions</module>
+        <module>reactive-demo</module>
     </modules>
 
     <properties>
