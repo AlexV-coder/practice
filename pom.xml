@@ -28,6 +28,7 @@
         <module>openfeignexample</module>
         <module>springcloudfunctions</module>
         <module>reactive-demo</module>
+        <module>spring-aws-v2-example</module>
     </modules>
 
     <properties>
