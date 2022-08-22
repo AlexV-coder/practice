@@ -1,4 +1,4 @@
-package com.alex.springawsv2example.configuration;
+package com.alex.springawsv2example;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;

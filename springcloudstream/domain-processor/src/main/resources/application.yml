@@ -1,0 +1,12 @@
+spring.cloud.stream:
+  function:
+    definition: domainProcessor
+  bindings:
+    domainProcessor-in-0:
+      destination: web-domains
+    domainProcessor-out-0:
+      destination: active.web-domains
+  kafka:
+    binder:
+      brokers:
+        - localhost:9092

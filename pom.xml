@@ -29,6 +29,7 @@
         <module>springcloudfunctions</module>
         <module>reactive-demo</module>
         <module>spring-aws-v2-example</module>
+        <module>springcloudstream</module>
     </modules>
 
     <properties>
